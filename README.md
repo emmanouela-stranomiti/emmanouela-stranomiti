@@ -23,18 +23,19 @@ This portfolio brings together my academic work, programming projects, and conti
 
 ## 🛠 Languages & Tools
 
-### Languages
 
-- Python
-- SQL
+**Languages**
 
-### Tools & Platforms
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 
-- Microsoft Office
-- ChatGPT
-- Claude
-- Tableau
-- Power BI
+**Tools & Platforms**
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
 
 **Areas of experience:** Machine learning · Computer vision · Statistical analysis · Data visualization
 
